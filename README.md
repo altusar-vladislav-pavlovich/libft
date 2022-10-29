@@ -8,11 +8,11 @@
 </p>
 
 <p align="center">
-	<img alt="Количество кода в байтах" src="https://img.shields.io/github/languages/code-size/altusar-vladislav-pavlovich/libft?color=blueviolet"/>
-	<img alt="Количество линий кода" src="https://img.shields.io/tokei/lines/github/appinha/altusar-vladislav-pavlovich/libft?color=blueviolet" />
-	<img alt="Количество используемых языков" src="https://img.shields.io/github/languages/count/appinha/altusar-vladislav-pavlovich/libft?color=blue" />
-	<img alt="Самый используемый язык" src="https://img.shields.io/github/languages/top/appinha/altusar-vladislav-pavlovich/libft?color=blue" />
-	<img alt="Последний коммит" src="https://img.shields.io/github/last-commit/appinha/altusar-vladislav-pavlovich/libft?color=brightgreen" />
+	<img alt="Github Количество кода в байтах" src="https://img.shields.io/github/languages/code-size/altusar-vladislav-pavlovich/libft?color=blueviolet"/>
+	<img alt="Github Количество линий кода" src="https://img.shields.io/tokei/lines/github/appinha/altusar-vladislav-pavlovich/libft?color=blueviolet" />
+	<img alt="Github Количество используемых языков" src="https://img.shields.io/github/languages/count/appinha/altusar-vladislav-pavlovich/libft?color=blue" />
+	<img alt="Github Самый используемый язык" src="https://img.shields.io/github/languages/top/appinha/altusar-vladislav-pavlovich/libft?color=blue" />
+	<img alt="Github Последний коммит" src="https://img.shields.io/github/last-commit/appinha/altusar-vladislav-pavlovich/libft?color=brightgreen" />
 </p>
 
 <h3 align="center">
