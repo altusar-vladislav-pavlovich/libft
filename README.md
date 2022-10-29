@@ -3,16 +3,19 @@
 </h1>
 
 <p align="center">
+	<b><i>Репозиторий разработки для проекта libft</i></b><br>
+	Для получения дополнительной информации о libft и его проектах обратитесь к репозиторию <a href="https://github.com/altusar-vladislav-pavlovich/libft"><b>libft репозиторий</b></a>.
+</p>
 	<b><i>Development repo for 42cursus' libft project</i></b><br>
 	For further information about 42cursus and its projects, please refer to <a href="https://github.com/appinha/42cursus"><b>42cursus repo</b></a>.
 </p>
 
 <p align="center">
-	<img alt="Github Количество кода в байтах" src="https://img.shields.io/github/languages/code-size/altusar-vladislav-pavlovich/libft?color=blueviolet"/>
-	<img alt="Github Количество линий кода" src="https://img.shields.io/tokei/lines/github/appinha/altusar-vladislav-pavlovich/libft?color=blueviolet" />
-	<img alt="Github Количество используемых языков" src="https://img.shields.io/github/languages/count/appinha/altusar-vladislav-pavlovich/libft?color=blue" />
-	<img alt="Github Самый используемый язык" src="https://img.shields.io/github/languages/top/appinha/altusar-vladislav-pavlovich/libft?color=blue" />
-	<img alt="Github Последний коммит" src="https://img.shields.io/github/last-commit/appinha/altusar-vladislav-pavlovich/libft?color=brightgreen" />
+	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/altusar-vladislav-pavlovich/libft?color=blueviolet"/>
+	<img alt="Number of lines of code" src="https://img.shields.io/tokei/lines/github/appinha/altusar-vladislav-pavlovich/libft?color=blueviolet" />
+	<img alt="Code language count" src="https://img.shields.io/github/languages/count/appinha/altusar-vladislav-pavlovich/libft?color=blue" />
+	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/appinha/altusar-vladislav-pavlovich/libft?color=blue" />
+	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/appinha/altusar-vladislav-pavlovich/libft?color=brightgreen" />
 </p>
 
 <h3 align="center">
