@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-	<b><i>Репозиторий разработки для проекта libft</i></b><br>
+	<b><i>Репозиторий разработки проекта libft</i></b><br>
 	Для получения дополнительной информации о libft и его проектах обратитесь к репозиторию <a href="https://github.com/altusar-vladislav-pavlovich/libft"><b>libft</b></a>.
 </p>
 
